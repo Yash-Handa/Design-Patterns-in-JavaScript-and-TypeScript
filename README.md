@@ -4,28 +4,28 @@
 ![TS](https://img.shields.io/badge/Made%20For%20TS-007ACC?style=for-the-badge&logo=typescript)
 ![NODEJS](https://img.shields.io/badge/Made%20For%20Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-# Design Patterns in JavaScript and TypeScript
+# Design Patterns in JavaScript and TypeScript :sunglasses:
 
-## What are Design Patterns ?
+## :thinking: What are Design Patterns ?
 
 **Design patterns**, as name suggest, are solutions for most commonly (and frequently) occurred problems while designing a software / application. These patterns have mostly “evolved” rather than “discovered”. A lot of learning, by lots of professional, have been summarized into these design patterns. None of these patterns force you anything in regard to implementation; they are just guidelines to solve a particular problem – in a particular way – in particular contexts. They make scaling your project quite easy.
 
 **Repeating:** They are just guidelines / methodology to tackle some of the common problems faced in application designing using **Object-Oriented Programming** Principles.
 
-## A bit of History
+## :closed_book: A bit of History
 
 Design patterns date back to the late 1970s with the publication of A **Pattern Language: Towns, Buildings, Construction** by architect Christopher Alexander and a few others. Since then many new and advanced adaptations for Design Patterns had come over years each polishing and improving the works of its predecessor. But in 1994, the most famous and widely accepted book till now, **Design Patterns: Elements of Reusable Object-Oriented Software** was published. This book was written by 4 authors: *Erich Gamma*, *Richard Helm*, *Ralph Johnson*, *John Vlissides* famously known as **Gang of Four** (*GoF* for short). The book described the 23 classic software design patterns which were bases on Object-Oriented Programming Principles and was written in C++ and Smalltalk.
 
 **Repeating:** in 1994 **Design Patterns: Elements of Reusable Object-Oriented Software** written by **Gang of Four** was published. This book contained all 23 classic design patterns which are now considered the original Design Patterns (or simply Patterns).
 
-## JavaScript, TypeScript and Node.js
+## :computer: JavaScript, TypeScript and Node.js
 
 Design Patterns are a very crucial part for writing industry-standard (professional quality) code, moreover, are one of the main areas of discussion / questions in an interview and are a must for enhancing your skills.  
 Design Patterns are used extensively in both Front-End and Back-End frameworks like **Angular**, **React.js**, **Express.js**, **Hapi.js** and many more. Understanding design patterns will also help you to understand the working of these frameworks and build better cohesive apps.
 
 **Note:** Design Patterns are predominantly bases on **Object-Oriented Programming** therefor TypeScript is a better choice (it has a better implementation of classes and types) but this repository contains an explanation, usage, and examples for both JavaScript(ES6+) and TypeScript with live working examples on JSFiddle.
 
-## Let's Get Started !!!
+## :racehorse: Let's Get Started !!!
 
 The list of 23 Design Patterns is divided into 3 categories: **Creational Design Patterns**, **Structural Design Patterns**, **Behavioral Design Patterns** based on the type of jobs that the design pattern is made for.
 
