@@ -6,3 +6,7 @@
 
 # Design-Patterns-in-JavaScript-and-TypeScript
 Design Patterns Implementation And Explanation in JavaScript(ES6+) and TypeScript
+
+## Initial TODO
+
+This repository will contain the JavaScript / TypeScript implementation of the classic 23 design patterns given by the **Gof** (Gang of Four) in their book **Elements of Reusable Object-Oriented Software**.
