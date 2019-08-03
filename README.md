@@ -10,20 +10,20 @@
 
 **Design patterns**, as name suggest, are solutions for most commonly (and frequently) occurred problems while designing a software / application. These patterns have mostly “evolved” rather than “discovered”. A lot of learning, by lots of professional, have been summarized into these design patterns. None of these patterns force you anything in regard to implementation; they are just guidelines to solve a particular problem – in a particular way – in particular contexts. They make scaling your project quite easy.
 
-**Repeating:** They are just guidelines / methodology to tackle some of the common problems faced in application designing using **Object Oriented Programming** Principles.
+**Repeating:** They are just guidelines / methodology to tackle some of the common problems faced in application designing using **Object-Oriented Programming** Principles.
 
 ## A bit of History
 
-Design patterns date back to the late 1970s with the publication of A **Pattern Language: Towns, Buildings, Construction** by architect Christopher Alexander and a few others. Since then many new and advanced adaptations for Design Patterns had came over years each polishing and improving the works of it's predecessor. But in 1994, the most famous and widely accepted book till date, **Design Patterns: Elements of Reusable Object-Oriented Software** was published. This book was written by 4 authors: *Erich Gamma*, *Richard Helm*, *Ralph Johnson*, *John Vlissides* famously known as **Gang of Four** (*GoF* for shot). The book described the 23 classic software design patterns which were bases on Object Oriented Programming Principles and was written in C++ and Smalltalk.
+Design patterns date back to the late 1970s with the publication of A **Pattern Language: Towns, Buildings, Construction** by architect Christopher Alexander and a few others. Since then many new and advanced adaptations for Design Patterns had come over years each polishing and improving the works of its predecessor. But in 1994, the most famous and widely accepted book till now, **Design Patterns: Elements of Reusable Object-Oriented Software** was published. This book was written by 4 authors: *Erich Gamma*, *Richard Helm*, *Ralph Johnson*, *John Vlissides* famously known as **Gang of Four** (*GoF* for short). The book described the 23 classic software design patterns which were bases on Object-Oriented Programming Principles and was written in C++ and Smalltalk.
 
 **Repeating:** in 1994 **Design Patterns: Elements of Reusable Object-Oriented Software** written by **Gang of Four** was published. This book contained all 23 classic design patterns which are now considered the original Design Patterns (or simply Patterns).
 
 ## JavaScript, TypeScript and Node.js
 
-Design Patterns are very crucial part for writing industry standard (professional quality) code, more over are one of the main areas of discussion / questions in an interview and are a must for enhancing your skills.  
-Design Patterns are used extensively in both Front-End and Back-End frameworks like: **Angular**, **React.js**, **Express.js**, **Hapi.js** and many more. Understanding design patterns will also help you to understand the working of these framework and build better cohesive apps.
+Design Patterns are a very crucial part for writing industry-standard (professional quality) code, moreover, are one of the main areas of discussion / questions in an interview and are a must for enhancing your skills.  
+Design Patterns are used extensively in both Front-End and Back-End frameworks like **Angular**, **React.js**, **Express.js**, **Hapi.js** and many more. Understanding design patterns will also help you to understand the working of these frameworks and build better cohesive apps.
 
-**Note:** Design Patterns are predominantly bases on **Object Oriented Programming** therefor TypeScript is a better choice (it has better implementation of classes and types) but this repository contain explanation, usage and examples for both JavaScript(ES6+) and TypeScript with live working examples on JSFiddle.
+**Note:** Design Patterns are predominantly bases on **Object-Oriented Programming** therefor TypeScript is a better choice (it has a better implementation of classes and types) but this repository contains an explanation, usage, and examples for both JavaScript(ES6+) and TypeScript with live working examples on JSFiddle.
 
 ## Let's Get Started !!!
 
@@ -35,13 +35,13 @@ The list of 23 Design Patterns is divided into 3 categories: **Creational Design
 | **Structural Design Patterns** | These design patterns are about organizing different classes and objects to form larger structures and provide new functionality. Structural design patterns show us how to glue different pieces of a system together in a flexible and extensible fashion. These patterns help us guarantee that when one of the parts changes, the entire application structure does not need to change.|
 | **Behavioral Design Patterns** | These design patterns are about identifying common communication patterns between objects and realize these patterns. Behavioral patterns abstract an action we want to take on the object or class that takes the action. By changing the object or class, we can change the algorithm used, the objects affected, or the behavior, while still retaining the same basic interface for client classes.|
 
-*Though each of the Design Pattern Category and the Design Patterns belonging to them are self contained and could be studied in any oder, I would prefer to follow the order maintained by the **next section** at the bottom of each page for better flow of information.*
+*Though each of the Design Pattern Category and the Design Patterns belonging to them are self-contained and could be studied in any order, I would prefer to follow the order maintained by the **next section** at the bottom of each page for better flow of information.*
 
 <hr>
 <div>
-  <span style="float: right"><i>Next: <a href="/Creational Design Patterns/README.md"><b>Creational Design Patterns --></b></a></i></span><br>
-  <span style="float: right"><i>Then: <a href="/Structural Design Patterns/README.md"><b>Structural Design Patterns --></b></a></i></span><br>
-  <span style="float: right"><i>After That: <a href="/Behavioral Design Patterns/README.md"><b>Behavioral Design Patterns --></b></a></i></span><br>
+  <p align="right"><i>Next: <a href="/Creational Design Patterns/README.md"><b>Creational Design Patterns --></b></a></i></p>
+  <p align="right"><i>Then: <a href="/Structural Design Patterns/README.md"><b>Structural Design Patterns --></b></a></i></p>
+  <p align="right"><i>After That: <a href="/Behavioral Design Patterns/README.md"><b>Behavioral Design Patterns --></b></a></i></p><br>
 </div>
 
 ## Initial TODO
