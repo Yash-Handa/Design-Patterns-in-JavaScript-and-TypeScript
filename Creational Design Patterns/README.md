@@ -22,14 +22,14 @@ There are 5 Creational Design Patterns. Each pattern creates objects from classe
 
 | **DESIGN PATTERN**    | **Description / Purpose** |
 |:---------------------:|:-------------------------:|
-|[**Builder**](/Builder/README.md)            |Builder design pattern is a way to construct complex objects and should be used only when we want to build different types of immutable objects using same object building process.|
-|[**Prototype**](/Prototype/README.md)          |Prototype design pattern is used in scenarios where application needs to create a large number of instances of a class, which have almost same state or differ very little.|
-|[**Factory**](/Factory/README.md)            |Factory design pattern is most suitable when complex object creation steps are involved. To ensure that these steps are centralized and not exposed to composing classes.|
-|<a href="/Abstract Factory/README.md">**Abstract Factory**</a>   |Abstract Factory pattern is used whenever we need another level of abstraction over a group of factories created using factory pattern.|
-|[**Singleton**](/Singleton/README.md)          |Singleton pattern is used to ensure a class has only one instance and provide a global point of access to it.|
+|<a href="/Creational Design Patterns/Builder/README.md">**Builder**</a>            |Builder design pattern is a way to construct complex objects and should be used only when we want to build different types of immutable objects using same object building process.|
+|<a href="/Creational Design Patterns/Prototype/README.md">**Prototype**</a>          |Prototype design pattern is used in scenarios where application needs to create a large number of instances of a class, which have almost same state or differ very little.|
+|<a href="/Creational Design Patterns/Factory/README.md">**Factory**</a>            |Factory design pattern is most suitable when complex object creation steps are involved. To ensure that these steps are centralized and not exposed to composing classes.|
+|<a href="/Creational Design Patterns/Abstract Factory/README.md">**Abstract Factory**</a>   |Abstract Factory pattern is used whenever we need another level of abstraction over a group of factories created using factory pattern.|
+|<a href="/Creational Design Patterns/Singleton/README.md">**Singleton**</a>          |Singleton pattern is used to ensure a class has only one instance and provide a global point of access to it.|
 
 <hr>
 <div>
-  <p><i><a href="../README.md"><b><-- Home</b></a></i></p>
-  <p align="right"><i>Next: <a href="/Builder/README.md"><b>Builder Design Pattern --></b></a></i></p>
+  <p><i><a href="/README.md"><b><-- Home</b></a></i></p>
+  <p align="right"><i>Next: <a href="/Creational Design Patterns/Builder/README.md"><b>Builder Design Pattern --></b></a></i></p>
 </div>
