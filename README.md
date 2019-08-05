@@ -37,6 +37,11 @@ The list of 23 Design Patterns is divided into 3 categories: **Creational Design
 
 *Though each of the Design Pattern Category and the Design Patterns belonging to them are self-contained and could be studied in any order, I would prefer to follow the order maintained by the **next section** at the bottom of each page for better flow of information.*
 
+## Points to remember
+
+- In this repository whenever "object" is mentioned it referees to **class objects** (objects instantiated from a class) and NOT the object literal
+- Disadvantages are given prior to Advantages.
+
 <hr>
 <div>
   <p align="right"><i>Next: <a href="/Creational Design Patterns/README.md"><b>Creational Design Patterns --></b></a></i></p>
